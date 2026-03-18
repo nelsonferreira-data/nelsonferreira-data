@@ -1,69 +1,64 @@
-# Hi 😁, I´m Nelson Ferreira
+<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDcxYjNwbHpodGc1cjVtYmh4dDJvNzY1cW05ZDhjMzlzenR3cDBkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 
-💻 **Aspiring Data Analyst | SQL • Power BI • Excel** 
+###
 
-<img src="https://flagcdn.com/w80/br.png" width="27">
-<img src="https://flagcdn.com/w80/us.png" width="30"> 
-
-**Bilíngue**
-
-
-Um aspirante em **Análise de Dados** com objetivo em conquistar minha oportunidade em um estágio na área de dados. Atualmente **focado** em me aprimorar nas ferramentas **SQL, Power BI, Excel**,  **(Python iniciante )** e prosseguir meu estudo na **língua inglesa**.
-
-
----
-
-## 🌐 Where to find me
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/nelson-ferreira-3884993b8/?trk=opento_sprofile_topcard" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/nelsonferreira_junior">
-    <img src="https://img.shields.io/badge/Instagram-@nelsonferreira_junior-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/nelsonferreira_junior/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+</div>
 
-  
----
+###
 
-## 🧠 What I do
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nelsonferreira-data.Nelsonferreira-data&left_color=blue&right_color=cadetblue"  />
+</div>
 
--   🔍 Explore and analyze datasets to find the best possible solution for resolving drop, shortage, or suplus issues. 
--   🧹 Clean and prepare data for all the analysis.
--   🧩 Every dataset is a puzzle waiting to be solved.
--   🗄️ Query and manipulate data using SQL.
--   📊 Creat dashboards and visualizations with Power BI.
+###
 
+<h1 align="center">👋Hi, coders</h1>
 
----
+###
 
-## 🛠️ Tech Stack
+<h2 align="left">👩‍💻  About Me</h2>
 
-### Data Analysis
+###
 
-![JavaScript](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![React](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+<p align="left">Hi, I’m Nelson Ferreira, an aspiring data professional.<br>I am currently in the second semester of my college program in Analysis and Systems Development.<br>I am studying Data Analysis, focusing on Excel, Python, SQL, and Power BI.<br>I have been learning English since childhood and continue to improve my skills.<br>My goal is to become a skilled data professional and work on meaningful projects in the future.</p>
 
+###
 
+<h3 align="center">🛠 Language and tools</h3>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
----
+###
 
-## 📊 GitHub Stats
+<h3 align="center">🔥   My Stats :</h3>
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nelsonferreira-data&show_icons=true&theme=tokyonight&count_private=true" />
-  
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nelsonferreira-data&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-## 🚀 Philosophy
+###
 
-> _" **Sometimes the questions are difficult, and the answers are simple.**"
+<div align="left">
+</div>
 
-**-Dr. Seuss**
-> 
----
+###
 
+<div align="left">
+</div>
 
+###
