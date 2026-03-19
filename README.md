@@ -1,11 +1,11 @@
-<div align="left">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJhcTR0ZTM0YzRjbWZqdjR2M2NucDB4N2xkbGVxcXZnMzd6aHloaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif  />
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQyeGtyOWQ3bzUzcHdseGUxcG95andlbHltNDM0cXpraW8xdnQ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nelson-ferreira-3884993b8/?trk=opento_sprofile_topcard" target="_blank">
+  <a href="https://www.linkedin.com/in/nelson-ferreira-3884993b8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/nelsonferreira_junior/" target="_blank">
@@ -21,15 +21,15 @@
 
 ###
 
-<h1 align="center">👋 Hi,  coders</h1>
+<h1 align="center">👋 Hi, guys</h1>
 
 ###
 
-<p align="center">Hi, I’m Nelson Ferreira, an aspiring data professional from Rio de Janeiro, Maricá, Brazil.<br>I am currently in the second semester of my college program in Analysis and Systems Development.<br>I am studying Data Analysis, focusing on Excel, Python, SQL, and Power BI.<br>I have been learning English since childhood and continue to improve my skills.<br>My goal is to become a skilled data professional and work on meaningful projects in the future.</p>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="center">🙋‍♂️ About Me</h3>
+<p align="left">Hi, I’m Nelson Ferreira, an aspiring data professional from Rio de Janeiro, Maricá, Brazil.<br>I am currently in the second semester of my college program in Analysis and Systems Development.<br>I am studying Data Analysis, focusing on Excel, Python, SQL, and Power BI.<br>I have been learning English since childhood and continue to improve my skills.<br>My goal is to become a skilled data professional and work on meaningful projects in the future.</p>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -55,8 +55,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelsonferreira-data&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nelsonferreira-data/Nelsonferreira-data/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nelsonferreira-data/Nelsonferreira-data/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nelsonferreira-data/Nelsonferreira-data/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
