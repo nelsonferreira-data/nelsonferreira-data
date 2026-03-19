@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hi, I’m Nelson Ferreira, an aspiring data professional from Rio de Janeiro, Maricá, Brazil.<br>I am currently in the second semester of my college program in Analysis and Systems Development.<br>I am studying Data Analysis, focusing on Excel, Python, SQL, and Power BI.<br>I have been learning English since childhood and continue to improve my skills.<br>My goal is to become a skilled data professional and work on meaningful projects in the future.</p>
+<p align="center">Hi, I’m Nelson Ferreira, an aspiring data professional from Rio de Janeiro, Maricá, Brazil.<br>I am currently in the second semester of my college program in Analysis and Systems Development.<br>I am studying Data Analysis, focusing on Excel, Python, SQL, and Power BI.<br>I have been learning English since childhood and continue to improve my skills.<br>My goal is to become a skilled data professional and work on meaningful projects in the future.</p>
 
 ###
 
